@@ -1,2 +1,2 @@
 # calculator-vue
-A Javascript calcular built in Vue
+A Javascript calculator built in Vue
